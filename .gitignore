@@ -1,5 +1,6 @@
-build/*
-dist/*
+node_modules/
+build/
+dist/
 *.wasm
 *.wasm.map
 *.asm.js
