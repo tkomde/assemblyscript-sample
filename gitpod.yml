@@ -1,0 +1,5 @@
+ports:
+- port: 3000
+  onOpen: ignore
+tasks:
+- command: "node web_server_simple.js 3000"

@@ -1,0 +1,5 @@
+build/*
+dist/*
+*.wasm
+*.wasm.map
+*.asm.js
