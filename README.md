@@ -1,4 +1,6 @@
-# assemblyscript-sample
+# Warning! This repository is obsolete after AssemblyScript 0.20!!
+
+## assemblyscript-sample
 
 Array and class handling sample for AssemblyScript with loader module
 
